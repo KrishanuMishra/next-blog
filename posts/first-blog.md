@@ -1,7 +1,7 @@
 ---
 title: "My First Blog"
 subtitle: "Creating my first blog using next.js"
-date: "2021-08-27"
+date: "2023-09-16"
 ---
 ![images/coding.jpg](/images/coding.jpg)
 
